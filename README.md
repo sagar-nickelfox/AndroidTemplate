@@ -3,6 +3,8 @@
 
 _Use this template project to improve your project setup experience._
 
+![Nickelfox](https://media-exp1.licdn.com/dms/image/C4D1BAQG8ZmDiozD2Cw/company-background_10000/0/1642578713018?e=2147483647&v=beta&t=Ykkeyj6Mctkar_PdYS64usWqFbgBE6ePZPv7SnS53eg "Nickelfox")
+
 *Template contents:*
 
 * recommended package structure
@@ -11,8 +13,6 @@ _Use this template project to improve your project setup experience._
 * Retrofit setup
 * Firebase Analytics and Messaging setup
 * SplashScreen helper -> https://blog.davidmedenjak.com/android/2017/09/02/splash-screens.html
-* Code to show [Open Source Licenses](#open-source-licenses) as a stand-alone activity or dialog
-* (optional) Texterify: texterify.json setup
 
 
 ## Project Setup (using this template)
